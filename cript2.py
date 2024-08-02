@@ -1,5 +1,5 @@
 # Ask the user for their name
-name = input("What is your name? ")
+name = input("What is your father name? ")
 
 # Ask the user for the time of day, e.g., "morning", "afternoon", "evening"
 time_of_day = input("What time of day is it (morning, afternoon, evening)? ")
